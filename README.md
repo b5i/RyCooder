@@ -1,11 +1,15 @@
-# RyCooder
+# RyCooder 
+
+Updated 2022
+
+
 Simple command line music player written in Swift.
 
 ![](./Assets/demo.gif)
 
 ## Requirements
 
-- Swift 3
+- Swift 4.2
 
 ## How to install RyCooder
 
